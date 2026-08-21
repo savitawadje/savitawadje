@@ -11,7 +11,7 @@ I'm a full-stack developer who loves solving real problems with code. Comfortabl
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://github.com/https://github.com/savitawadje" target="_blank"><img src="https://cdn.simpleicons.org/github/0969da" alt="GitHub" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/savita-wadje-85b50b368/" target="_blank"><img src="https://img.icons8.com/material-outlined/40/0969da/internet.png" alt="LinkedIn" width="40" height="40" /></a>
+<a href="https://github.com/savitawadje" target="_blank"><img src="https://cdn.simpleicons.org/github/0969da" alt="GitHub" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/savita-wadje" target="_blank"><img src="https://img.icons8.com/material-outlined/40/0969da/internet.png" alt="LinkedIn" width="40" height="40" /></a>
 </p>
 
 ---
