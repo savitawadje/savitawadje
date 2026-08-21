@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Savita Wadje
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DD0031&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Angular+%26+React;MERN+Stack+Developer;Building+UIs+that+users+love;5%2B+Years+of+Production+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DD0031&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Angular+%26+React;Frontend+Fullstack+Developer+%7C+MERN+%26+MEAN;Building+UIs+that+users+love;5%2B+Years+of+Production+Experience" alt="Typing SVG" />
 
 </div>
 
