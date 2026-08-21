@@ -2,6 +2,8 @@
 
 [![status](https://playboxjs.com/github-developer-status.php?text=%F0%9F%9A%80%20Shipping%20Code&color=emerald&label=status)](https://playboxjs.com/tools/github/developer-status) 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&width=435&lines=Full%20Stack%20Developer%3BBuilding%20UIs%20that%20users%20actually%20enjoy%3B5%20yrs%20in%20Production%20%C2%B7%20Now%20pursuing%20M.Sc.%20in%20Germany)](https://git.io/typing-svg)
+
 ---
 
 ## 👨‍💻 About Me
@@ -11,7 +13,7 @@ I'm a full-stack developer who loves solving real problems with code. Comfortabl
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://github.com/savitawadje" target="_blank"><img src="https://cdn.simpleicons.org/github/0969da" alt="GitHub" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/savita-wadje" target="_blank"><img src="https://img.icons8.com/material-outlined/40/0969da/internet.png" alt="LinkedIn" width="40" height="40" /></a>
+<a href="https://github.com/savitawadje" target="_blank"><img src="https://cdn.simpleicons.org/github/0969da" alt="GitHub" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/savita-wadje" target="_blank"><img src="https://img.icons8.com/material-outlined/40/0969da/internet.png" alt="LinkedIn" width="40" height="40" /></a> <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/devdotto/0969da" alt="Dev.to" width="40" height="40" /></a>
 </p>
 
 ---
@@ -22,21 +24,9 @@ I'm a full-stack developer who loves solving real problems with code. Comfortabl
 
 ---
 
-## 💼 Work Experience
+## 🚀 Tech Stack Vitality
 
-- **Senior Software Engineer** @  Cybage Software Pvt. Ltd. (Apr 2024 – Sep 2025 | Pune, India)
-  <br/> 1. Independently developed 2+ web applications from scratch in an Agile environment, translating Figma wireframes into scalable project architecture.
-2. Built responsive, cross-browser-compatible UIs using Angular, HTML, CSS, and JavaScript across 4+ major browsers.
-3. Developed 10+ modular, reusable components with efficient data binding and seamless API integration.
-Skills: Angular, TypeScript, REST APIs
-  <br/> **Skills:** `React`, `Node.js`, `Angular`, `Typescript`, `REST APIs`, `SQL`
-
-- **Mindtree Pvt. Ltd** @ Software Engineer (Apr 2021 – May 2023 | Bangalore, India)
-  <br/> 1. Analyzed system workflows and business processes in cross-functional collaboration with design and backend teams.
-2. Developed user-facing applications using Angular and Angular Material.
-3. Contributed to micro-frontend architecture within 2 existing applications.
-4. Performed unit testing and debugging across 30+ components.
-  <br/> **Skills:** `HTML`, `Tailwind CSS`, `Typescript`, `JavaScript`, `Angular`, `AWS`
+[![savitawadje's Tech Stack Vitality](https://playboxjs.com/api/v1/github/skills.php?user=savitawadje&threshold=365&theme=dark&hide=batchfile,shell,perl,c,objective-c,dockerfile)](https://playboxjs.com/tools/github/skill-tracker/)
 
 ---
 
