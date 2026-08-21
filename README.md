@@ -13,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:099savitawadje4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savitawadje)
 
-![Profile Views](https://komarev.com/ghpvc/?username=savitawadje&color=DD0031&style=for-the-badge)
 
 </div>
 
@@ -237,26 +236,7 @@ class SavitaWadje {
 
 </div>
 
----
 
-## 🏆 Key Achievements
-
-<div align="center">
-
-| 🎯 Achievement | 📊 Impact |
-|:---|---:|
-| **Production Applications** | 2+ Angular apps shipped from scratch |
-| **Component Library** | 10+ reusable, tested components |
-| **Testing Coverage** | 30+ components unit tested at LTIMindtree |
-| **UI Components** | 15+ cross-browser components at Codesplit |
-| **Browser Compatibility** | 4+ major browsers supported |
-| **Enterprise Experience** | Cybage · LTIMindtree · Codesplit |
-| **Stack Versatility** | Frontend + Cloud + DevOps awareness |
-| **Current Research** | M.Sc. Web Engineering · TU Chemnitz |
-
-</div>
-
----
 
 ## 💼 Professional Experience
 
@@ -342,14 +322,14 @@ Pune, India
 <div align="center">
 
 ### 🎓 Technische Universität Chemnitz
-**Master of Science in Web Engineering** | Oct 2025 – Present | 🇩🇪 Germany
+**Master of Science in Web Engineering** | 🇩🇪 Germany
 
 *Focus:* Modern Web Architectures · Scalable Frontend Systems · Web Engineering
 
 ---
 
 ### 🎓 JSPM, Savitribai Phule Pune University
-**Bachelor of Engineering — Computer Science** | Jun 2012 – Jun 2017 | 🇮🇳 India
+**Bachelor of Engineering — Computer Science** | 🇮🇳 India
 
 </div>
 
