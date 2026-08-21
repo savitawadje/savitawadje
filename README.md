@@ -40,7 +40,4 @@ Skills: Angular, TypeScript, REST APIs
 
 ---
 
-<p align="center">
-  <br/>
-  Built with ❤️ by <a href="https://github.com/playboxjs">PlayboxJS Portfolio Profile Builder</a>
-</p>
+
