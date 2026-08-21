@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Savita Wadje
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DD0031&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Angular+%26+React;Building+UIs+that+users+love;5%2B+Years+of+Production+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DD0031&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Angular+%26+React;MERN+Stack+Developer;Building+UIs+that+users+love;5%2B+Years+of+Production+Experience;Werkstudent+%40+TU+Chemnitz+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 
 </div>
 
@@ -12,6 +12,7 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/savitawadje)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:099savitawadje4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savitawadje)
+
 
 
 </div>
@@ -26,12 +27,12 @@ class SavitaWadje {
   location    = "Chemnitz, Germany 🇩🇪";
   education   = "M.Sc. Web Engineering @ TU Chemnitz (2025–)";
   experience  = "5+ years | Cybage · LTIMindtree · Codesplit";
-  passion     = "Turning Figma wireframes into pixel-perfect UIs";
+  passion     = "Turning Figma wireframes into pixel-perfect, scalable UIs";
 
   stack() {
     return {
-      primary:   ["Angular", "TypeScript", "JavaScript", "Tailwind CSS"],
-      learning:  ["React — building projects to expand beyond Angular"],
+      frontend:  ["Angular", "React", "TypeScript", "JavaScript", "Tailwind CSS", "Sass"],
+      mern:      ["MongoDB", "Express.js", "React", "Node.js"],
       backend:   ["Node.js", "Express.js", "REST APIs"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
       devops:    ["AWS", "Docker", "CI/CD", "Jenkins", "Kubernetes"],
@@ -40,7 +41,7 @@ class SavitaWadje {
   }
 
   currentFocus() {
-    return "Combining 5 years of production engineering with M.Sc. depth";
+    return "Building MERN stack & AI-powered projects at TU Chemnitz";
   }
 
   lookingFor() {
@@ -54,7 +55,7 @@ class SavitaWadje {
 ### 🚀 Right Now
 
 🎓 Pursuing **M.Sc. Web Engineering** at **TU Chemnitz**  
-⚡ Actively learning **React** — building personal projects  
+⚛️ Building **MERN stack** projects & **AI-powered** applications  
 💼 Available **15–20 hrs/week** during semester · Full-time during breaks  
 🌍 Open to **Werkstudent roles** across **Germany & Europe**
 
@@ -77,11 +78,11 @@ class SavitaWadje {
 </td>
 <td width="50%">
 
-### 🔬 Engineering Quality
-- ✅ **30+ components** unit tested & debugged at LTIMindtree
-- ✅ **15+ UI components** with standardised CSS at Codesplit
-- ✅ REST API integration across complex backend systems
-- ✅ Microfrontend architecture experience
+### ⚛️ Modern Full-Stack Development
+- ✅ **MERN Stack** — MongoDB · Express · React · Node.js
+- ✅ **AI integration** in production web applications
+- ✅ REST API design and integration
+- ✅ State management · Authentication · Deployment
 
 </td>
 </tr>
@@ -118,19 +119,19 @@ class SavitaWadje {
 
 ### ⚡ Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React_(learning)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔧 MERN Stack & Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -156,6 +157,24 @@ class SavitaWadje {
 <tr>
 <td width="50%">
 
+### 🤖 [Jobift AI](https://github.com/savitawadje/jobift-ai)
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live"/>
+<img src="https://img.shields.io/badge/AI_Powered-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+
+**AI-powered job platform · MERN Stack**
+
+🎯 Full-stack AI-powered application built with MERN  
+🤖 Integrated AI to enhance the job search/matching experience  
+⚛️ React frontend with clean, responsive UI  
+🔌 Node.js + Express REST API backend with MongoDB
+
+**Tech:** React · Node.js · Express · MongoDB · AI/LLM · Tailwind CSS
+
+[💻 GitHub](https://github.com/savitawadje/jobift-ai)
+
+</td>
+<td width="50%">
+
 ### ⚙️ Enterprise Angular Applications
 <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" alt="Production"/>
 
@@ -169,6 +188,11 @@ class SavitaWadje {
 **Tech:** Angular · TypeScript · HTML5 · CSS3 · REST APIs · AWS
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 ### 🧩 Reusable Component Library
@@ -181,42 +205,22 @@ class SavitaWadje {
 🧪 30+ components unit tested & debugged  
 🏗️ Contributed to microfrontend architecture
 
-**Tech:** Angular · Angular Material · TypeScript · RxJS · NgRx
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 React Learning Projects
-<img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge" alt="In Progress"/>
-
-**Expanding beyond Angular — actively building**
-
-🎯 Hands-on React projects while studying at TU Chemnitz  
-⚛️ Applying TypeScript & component patterns from Angular experience  
-🎨 Tailwind CSS for rapid UI development  
-📚 Exploring React ecosystem: hooks, context, routing
-
-**Tech:** React · TypeScript · Tailwind CSS · JavaScript
+**Tech:** Angular · Angular Material · TypeScript · RxJS
 
 </td>
 <td width="50%">
 
-### 📐 CSS Architecture & Layouts
-<img src="https://img.shields.io/badge/Status-Delivered-success?style=for-the-badge" alt="Delivered"/>
+### 📐 MERN Stack Projects
+<img src="https://img.shields.io/badge/Status-Active-orange?style=for-the-badge" alt="Active"/>
 
-**Standardised UI systems · Codesplit Technologies**
+**Full-stack development · Personal Projects**
 
-🎯 Developed 15+ UI components from specs  
-🌐 Cross-browser compatibility across 3+ browsers  
-🎨 Standardised CSS-based layout systems  
-🔌 API-integrated data binding across frontend layers
+🎯 Building end-to-end applications with MERN stack  
+⚛️ React with hooks, context API and modern patterns  
+🗄️ MongoDB schema design and Express REST APIs  
+🚀 Deployed on cloud with CI/CD pipelines
 
-**Tech:** Angular · Sass · HTML5 · CSS3 · Bootstrap · Node.js
+**Tech:** React · Node.js · Express · MongoDB · Tailwind CSS
 
 </td>
 </tr>
@@ -235,6 +239,8 @@ class SavitaWadje {
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=savitawadje&theme=redical&hide_border=true&area=true" />
 
 </div>
+
+
 
 
 
@@ -322,14 +328,14 @@ Pune, India
 <div align="center">
 
 ### 🎓 Technische Universität Chemnitz
-**Master of Science in Web Engineering** | 🇩🇪 Germany
+**Master of Science in Web Engineering** |  🇩🇪 Germany
 
 *Focus:* Modern Web Architectures · Scalable Frontend Systems · Web Engineering
 
 ---
 
 ### 🎓 JSPM, Savitribai Phule Pune University
-**Bachelor of Engineering — Computer Science** | 🇮🇳 India
+**Bachelor of Engineering — Computer Science** |  🇮🇳 India
 
 </div>
 
@@ -353,10 +359,10 @@ Pune, India
 ## 💡 Why Work With Me?
 
 ```
-🧱 I don't just write components — I architect them to be reusable and maintainable
+🧱 5 years of enterprise Angular — and now building with React & MERN too
+🤖 Already shipping AI-powered applications, not just learning about them
 ⚡ I move fast in Agile teams without cutting corners on quality
-🌉 I bridge the gap between design and engineering — Figma to production
-🔬 I'm actively expanding my stack (React) while studying Web Engineering
+🌉 I bridge design and engineering — Figma wireframes to production code
 🤝 I communicate clearly — in code, in standups, in English and improving German
 📍 Based in Chemnitz, Germany — ready to contribute from day one
 ```
@@ -369,7 +375,7 @@ Pune, India
 
 ### 💼 Open to Opportunities
 
-🖥️ **Werkstudent Frontend** | ⚛️ **Angular / React Projects** | 🌍 **Germany & Europe**
+🖥️ **Werkstudent Frontend** | ⚛️ **Angular / React / MERN** | 🌍 **Germany & Europe**
 
 ---
 
@@ -390,10 +396,10 @@ Pune, India
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DD0031&height=100&section=footer" width="100%"/>
 
-### 💭 *"5 years of production engineering — now going deeper."*
+### 💭 *"5 years of production engineering — now building what's next."*
 
 ![Angular](https://img.shields.io/badge/Powered_by-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Built_with-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/Also_in-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)
 
 </div>
