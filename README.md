@@ -218,7 +218,7 @@ class SavitaWadje {
 🎯 Building end-to-end applications with MERN stack  
 ⚛️ React with hooks, context API and modern patterns  
 🗄️ MongoDB schema design and Express REST APIs  
-🚀 Deployed on cloud with CI/CD pipelines
+📋 Full CRUD operations with MongoDB & RESTful API design
 
 **Tech:** React · Node.js · Express · MongoDB · Tailwind CSS
 
